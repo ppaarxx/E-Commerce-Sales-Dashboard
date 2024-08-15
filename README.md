@@ -1,11 +1,6 @@
 # E-Commerce-Sales-Dashboard
-# E-Commerce Sales Dashboard
 
 This Power BI dashboard was created to analyze and visualize e-commerce sales data. It includes various charts and visualizations to provide insights into sales trends, profitability, and more.
-
-## Dashboard Preview
-
-![Dashboard Preview](path_to_your_image.png)
 
 ## Features
 - Interactive dashboard with filters and slicers
